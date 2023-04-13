@@ -1,6 +1,6 @@
 <div align="center">
   <h1><br>Moloko Mokubedi's React.js Website</h1>
-  <img src="https://molokomokubedi.s3.af-south-1.amazonaws.com/Personal+Website.png" alt="Demo Image" width="500" height="600">
+  <img src="https://molokomokubedi.s3.af-south-1.amazonaws.com/Personal+Website.png" alt="Demo Image" width="700" height="400">
   <h3><a href="https://www.moloko-mokubedi.co.za/" target="_blank">Live Preview</a></h3>
 </div>
 <br>
