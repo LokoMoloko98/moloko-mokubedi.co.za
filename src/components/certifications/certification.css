@@ -1,0 +1,47 @@
+.certifications {
+  position: relative;
+  background-color: #2c323f;
+}
+.certification-content {
+  margin: 0 auto;
+  max-width: 1400px;
+}
+
+.cert-text{
+  text-align: center;
+}
+
+.certification-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  position: relative;
+  padding-left: 0;
+  list-style: none;
+  margin: 0 auto;
+}
+.certification-list > li {
+  border-radius: 5px;
+  margin: 20px 10px;
+  width: 390px;
+  min-width: 290px;
+}
+.certification-list > li > div {
+  height: 100%;
+}
+
+.textLink {
+  color: #0be779;
+  cursor: pointer;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }

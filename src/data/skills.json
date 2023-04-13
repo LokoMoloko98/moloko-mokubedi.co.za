@@ -1,0 +1,40 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "🛠️ Python",
+      "amount": "100",
+      "details": "I have roughly 5 years of Python programming experience. I am proficient in using the following data science libraries such as OpenCV."
+    },
+    {
+      "id": 1,
+      "skillName": "🛠️ Linux Bash",
+      "amount": "100",
+      "details": "Having been introduced to Unix-based operating systems in 2019, I have slowly transitioned to using Linux distributions on a full time basis. This meant getting used to troubleshooting my machine using Bash commands regularly and becoming more familiar with fundamental commands."
+    },
+    {
+      "id": 2,
+      "skillName": "🖥️ Terraform",
+      "amount": "100",
+      "details": "Experienced in using Terraform to deploy and managing AWS resources. I have deep knowledge of Terraform's features and capabilities, including resource provisioning, data management, and infrastructure as code."
+    },
+    {
+      "id": 3,
+      "skillName": "🌐 Amazon Web Services (AWS)",
+      "amount": "100",
+      "details": "AWS is my go-to web services provider. A majority of my projects are hosted or managed via AWS Elastic Cloud Compute (EC2), AWS Amplify or AWS Lightsail. I'm AWS Cloud Practitioner and Solutions Architect Associate Certified and I am currently working on attaining the AWS Developer Associate Certificate."
+    },
+    {
+      "id": 4,
+      "skillName": "🧰 Git", 
+      "amount": "100",
+      "details": "I learnt the basics of source control and software project management as part of my Computer Science curriculumn at UCT. Git is my version control tool of choice when it comes managing source code repositories at local machine level and on online source control vendor GitHub."
+    },
+    {
+      "id": 5,
+      "skillName": "📦 Docker", 
+      "amount": "100",
+      "details": "I have been acquainted with Docker for containerizing applications, having had experience involving image creation and management, docker-compose deployments, and network integration."
+    }
+  ]
+}

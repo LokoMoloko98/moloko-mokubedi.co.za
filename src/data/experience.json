@@ -1,0 +1,37 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "https://icts.uct.ac.za/",
+      "company": "Information and Communication Technology Services",
+      "title": "Computer Lab Assistant",
+      "dateFrom": "February 2022",
+      "dateTo": "November 2022",
+      "info": ["Supporting University of Cape Town's faculty members and students in their use of computer software and hardware.",
+                "Responding to queries pertaining to the physical condition of laboratory equipment, hardware, software and the printer."
+              ],
+      "stack": ["IT Administration", "Student Support Services", "Communication"],
+      "logowidth": 100,
+      "colourPrimary": "linear-gradient(to bottom, #558498, #0974b8)",
+      "colourSecondary": "linear-gradient(to bottom, #99b451, #a5cc3d)"
+    },
+    {
+      "id": 1,
+      "link": "https://cloud-fundis.co.za/",
+      "company": "Cloud Fundis",
+      "title": "Junior DevOps Engineer",
+      "dateFrom": "December 2022",
+      "dateTo": "February 2023",
+      "info": [
+        "Setting up Docker images to containerize for client's development enviroments",
+        "Deploying and orchestraring containers via AWS ECS and AWS Fargate",
+        "Developing and deploying IaaS Terraform Scripts",
+        "Facilitating CI/CD pipelines via AWS CDK Tools"
+      ],
+      "stack": ["AWS", "Docker", "Terraform"],
+      "logoheight": 100,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+    }
+  ]
+}
