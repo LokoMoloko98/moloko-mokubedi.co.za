@@ -1,6 +1,6 @@
 <div align="center">
   <h1><br>Moloko Mokubedi's React.js Website</h1>
-  <h3><a href="https://molokomokubedi.onrender.com/" target="_blank">Live Preview</a></h3>
+  <h3><a href="https://www.moloko-mokubedi.co.za/" target="_blank">Live Preview</a></h3>
 </div>
 <br>
 
