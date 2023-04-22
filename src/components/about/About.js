@@ -25,7 +25,7 @@ const About = () => {
             </p>
 
             <p>
-            📝 I have experience working with the AWS Cloud Development Kit (CDK), Terraform, Docker and Linux.   
+            📝 I have experience working with the AWS CI/CD Tools, Terraform, Linux and Docker.   
             </p>
 
             <p>
