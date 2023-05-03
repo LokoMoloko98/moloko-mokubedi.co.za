@@ -17,7 +17,7 @@ const Certification = () => {
                 float
                 className="cert-text"
                 header='https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png'
-                avatar='https://molokomokubedi.s3.af-south-1.amazonaws.com/Cert+Badges/aws-certified-solutions-architect-associate.png'
+                avatar='https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/Cert+Badges/aws-certified-solutions-architect-associate.png'
                 name='AWS Solutions Architect Associate'
                 positionName='Click on card to verify proof of certification.' />
             </a>
@@ -27,7 +27,7 @@ const Certification = () => {
                 float
                 className="cert-text"
                 header='https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Emblem.png'
-                avatar='https://molokomokubedi.s3.af-south-1.amazonaws.com/Cert+Badges/aws-certified-cloud-practitioner.png'
+                avatar='https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/Cert+Badges/aws-certified-cloud-practitioner.png'
                 name='AWS Certified Cloud Practitioner'
                 positionName='Click on card to verify proof of certification.' />
             </a>
@@ -37,7 +37,7 @@ const Certification = () => {
                 float
                 className="cert-text"
                 header='https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/0507red_azurelogo.jpg'
-                avatar='https://molokomokubedi.s3.af-south-1.amazonaws.com/Cert+Badges/microsoft-certified-azure-data-fundamentals.png'
+                avatar='https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/Cert+Badges/microsoft-certified-azure-data-fundamentals.png'
                 name='Microsoft Certified: Azure Data Fundamentals'
                 positionName='Click on card to verify proof of certification.' />
             </a>
@@ -46,8 +46,8 @@ const Certification = () => {
               <UserCard
                 float
                 className="cert-text"
-                header='https://molokomokubedi.s3.af-south-1.amazonaws.com/oracle+dark+bg.png'
-                avatar='https://molokomokubedi.s3.af-south-1.amazonaws.com/Cert+Badges/50_Oracle_Cloud_Infrastructure.jpg'
+                header='https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/Cert+Badges/oracle+dark+bg.png'
+                avatar='https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/Cert+Badges/50_Oracle_Cloud_Infrastructure.jpg'
                 name='Oracle Cloud Infrastructure Foundations'
                 positionName='Click on card to verify proof of certification.' />
             </a>
