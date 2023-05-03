@@ -12,22 +12,22 @@ module.exports = {
       shape: {
         type: ["images"],
         image: [{
-          src: "https://molokomokubedi.s3.af-south-1.amazonaws.com/aws.png",
+          src: "https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/particles-logos/aws.png",
           width: 100,
           height: 100
         },
         {
-          src: "https://molokomokubedi.s3.af-south-1.amazonaws.com/terraform-hashicorp+logo+only.png",
+          src: "https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/particles-logos/terraform-hashicorp+logo+only.png",
           width: 500,
           height: 500
         },
         {
-          src: "https://molokomokubedi.s3.af-south-1.amazonaws.com/linux-logo-png-transparent-background-png-download.png",
+          src: "https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/particles-logos/linux-logo-png-transparent-background-png-download.png",
           width: 200,
           height: 200
         },
         {
-          src: "https://molokomokubedi.s3.af-south-1.amazonaws.com/docker.png",
+          src: "https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/particles-logos/docker.png",
           width: 200,
           height: 200
         }]

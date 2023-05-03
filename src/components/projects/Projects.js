@@ -141,7 +141,7 @@ const Projects = () => {
             <Carousel.Item>
               <a href='https://github.com/LokoMoloko98/Investigating-the-time-efficiency-of-indexing-vector-point-data-via-the-Point-Quadtree' target="_blank" rel="noreferrer">
                 <Card>
-                  <Img img={'https://molokomokubedi.s3.af-south-1.amazonaws.com/final+year+project.png'} />
+                  <Img img={'https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/projects-images/final+year+project.png'} />
                   <Title>
                   Investigating the time efficiency of indexing vector point data via the Point Quadtree
                   </Title>
@@ -169,7 +169,7 @@ const Projects = () => {
             <Carousel.Item>
               <a href='https://github.com/LokoMoloko98/ReactJS-Docker-Personal-Website' target="_blank" rel="noreferrer">
                 <Card>
-                  <Img img={'https://molokomokubedi.s3.af-south-1.amazonaws.com/Personal+Website.png'} />
+                  <Img img={'https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/projects-images/Personal+Website.png'} />
                   <Title>
                     Moloko Mokubedi's React.js Website
                   </Title>
