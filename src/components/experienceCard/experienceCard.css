@@ -5,6 +5,7 @@
 }
 .experience-card-wrapper {
   height: 100%;
+  width: fit-content;
   transition: 0.2s;
 }
 .experience-card {

@@ -4,37 +4,44 @@
       "id": 0,
       "skillName": "🛠️ Python",
       "amount": "100",
-      "details": "I have roughly 5 years of Python programming experience. I am proficient in using the following data science libraries such as OpenCV."
+      "details": "I did a significant amount of functional development in Python during my university years, making me comfortable with the language for automation tasks. If I am aware of a Python module/library that will make accomplishing certain tasks easier, (such as Pandas for JSON file analysis) I would turn to Python for scripting and automating those tasks in my DevOps role."
     },
     {
       "id": 1,
       "skillName": "🛠️ Linux Bash",
       "amount": "100",
-      "details": "Having been introduced to Unix-based operating systems in 2019, I have slowly transitioned to using Linux distributions on a full time basis. This meant getting used to troubleshooting my machine using Bash commands regularly and becoming more familiar with fundamental commands."
+      "details": "I was introduced to Unix-based operating systems in 2019 through my studies. My Bash skills have improved over the years as I have used it extensively to prepare EC2 bootstrapping (user-data) scripts and automating on-server tasks liking editing configuration files using sed or running other commands via cron jobs like periodic systemctl restarts"
     },
     {
       "id": 2,
       "skillName": "🖥️ Terraform",
       "amount": "100",
-      "details": "Experienced in using Terraform to deploy and managing AWS resources. I have deep knowledge of Terraform's features and capabilities, including resource provisioning, data management, and infrastructure as code."
+      "details": "I am a HashiCorp Certified: Terraform Associate, with roughly a year's worth of experience configuring, deploying and maintaining AWS cloud resources through this Infrastructre-as-Code tool. I have worked with Terraform and on a personal and professional capacity launching IT infrastructure resources on the Amazon Web Services cloud platform."
     },
     {
       "id": 3,
       "skillName": "🌐 Amazon Web Services (AWS)",
       "amount": "100",
-      "details": "AWS is my go-to web services provider. A majority of my projects are hosted or managed via AWS Elastic Cloud Compute (EC2), AWS Amplify or AWS Lightsail. I'm AWS Cloud Practitioner and Solutions Architect Associate Certified and I am currently working on attaining the AWS Developer Associate Certificate."
+      "details": "The AWS cloud services I worked with are Simple Storage Service (S3), Elastic Cloud Compute (EC2), Amplify, Route53 (DNS service) and their associated networking components such as virtual private clouds (VPCs), security groups, subnets, loadbalancers and autoscaling groups. I'm AWS Cloud Practitioner and Solutions Architect Associate Certified and I am currently working on attaining the AWS SysOps Administrator Associate Certificate."
     },
     {
       "id": 4,
       "skillName": "🧰 Git", 
       "amount": "100",
-      "details": "I learnt the basics of source control and software project management as part of my Computer Science curriculumn at UCT. Git is my version control tool of choice when it comes managing source code repositories at local machine level and on online source control vendor GitHub."
+      "details": "I learnt the basics of source control and software project management as part of my Computer Science curriculumn at UCT. Git is my source version control (SVC) tool of choice when it comes managing source code repositories at local machine level and on online source control vendor GitHub. You may check my Github activity at: https://github.com/LokoMoloko98. The SVC platforms I regularly use are Github and AWS CodeCommit."
     },
     {
       "id": 5,
       "skillName": "📦 Docker", 
       "amount": "100",
-      "details": "I have been acquainted with Docker for containerizing applications, having had experience involving image creation and management, docker-compose deployments, and network integration."
+      "details": "My containerisation journey began at CloudFundis and picked up pace at Barefoot Cyber where I did ample work configuring a template docker-compose file that deploys a network of containers that compose of a Wazuh Server, Opensearch server, Kibana Dashboard and an Nginx server that acts as a proxy and loadbalancer (the main components of the SIEM) respectively."
+    },
+    {
+      "id": 6,
+      "skillName": "More...", 
+      "amount": "100",
+      "details": "Go to the Curriculum Vitae section to see more skills I have to offer or download my CV at this URL: https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/Moloko+Mokubedi+CV.pdf"
     }
+
   ]
 }

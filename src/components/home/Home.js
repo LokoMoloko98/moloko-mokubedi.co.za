@@ -54,7 +54,7 @@ const Home = () => {
             <Bounce cascade>
               <div className="links">
                 <a
-                  href="https://www.linkedin.com/in/moloko-mokubedi-b6a2a298"
+                  href="http://linkedin.com/in/mahlogonolo-m-355188285"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -94,4 +94,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Home 

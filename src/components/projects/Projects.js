@@ -114,7 +114,7 @@ font-size: 18px;
 const Projects = () => {
 
   return (
-    <Section title="Projects">
+    <Section title="Personal Projects">
       <div className="projects-content">
         <Fade bottom duration={1000} distance="20px">
 

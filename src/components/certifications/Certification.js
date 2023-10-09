@@ -11,6 +11,16 @@ const Certification = () => {
       <div className='certification-content'>
         <div className="certification-list" >
           <Fade bottom duration={1000} distance="20px">
+          <a href='https://www.credly.com/badges/7b74e262-adb0-4106-9558-93e6b360de82/public_url'
+              target="_blank" rel="noreferrer">
+              <UserCard
+                float
+                className="cert-text"
+                header='https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/Cert+Badges/terraform_background.png'
+                avatar='https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/Cert+Badges/hashicorp-certified-terraform-associate-003.png'
+                name='HashiCorp Certified: Terraform Associate (003)'
+                positionName='Click on card to verify proof of certification.' />
+            </a>
             <a href='https://www.credly.com/badges/a510d676-1ce6-481f-86a8-0e76654b11b5/public_url'
               target="_blank" rel="noreferrer">
               <UserCard
@@ -39,16 +49,6 @@ const Certification = () => {
                 header='https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/0507red_azurelogo.jpg'
                 avatar='https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/Cert+Badges/microsoft-certified-azure-data-fundamentals.png'
                 name='Microsoft Certified: Azure Data Fundamentals'
-                positionName='Click on card to verify proof of certification.' />
-            </a>
-            <a href='https://catalog-education.oracle.com/pls/certview/sharebadge?id=8AB76CA1369BE6B5E4FCAF38739791366D380C0A2E868C7873B942518D9ECB9B'
-              target="_blank" rel="noreferrer">
-              <UserCard
-                float
-                className="cert-text"
-                header='https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/Cert+Badges/oracle+dark+bg.png'
-                avatar='https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/Cert+Badges/50_Oracle_Cloud_Infrastructure.jpg'
-                name='Oracle Cloud Infrastructure Foundations'
                 positionName='Click on card to verify proof of certification.' />
             </a>
           </Fade>

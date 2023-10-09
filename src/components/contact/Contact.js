@@ -5,6 +5,7 @@ import { Bounce } from 'react-reveal'
 import ContactForm from '../contactForm/ContactForm'
 import linkedin from '../../images/social/linkedin.png'
 import github from '../../images/social/github.png'
+import email2 from '../../images/social/email2.png'
 
 const Contact = () => {
   return (
@@ -12,8 +13,8 @@ const Contact = () => {
       <ContactForm />
       <Bounce cascade>
         <div className="links">
-        <a
-            href="https://www.linkedin.com/in/moloko-mokubedi-b6a2a298"
+          <a
+            href="https://linkedin.com/in/mahlogonolo-m-355188285"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -26,9 +27,16 @@ const Contact = () => {
           >
             <img src={github} alt="Github Logo" width="40px" />
           </a>
-        </div>
-      </Bounce>
-    </Section>
+          <a
+            href="mailto: communication@moloko-mokubedi.co.za"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src={email2} alt="Email Logo" width="100px" height="100px" />
+          </a>
+      </div>
+    </Bounce>
+    </Section >
   )
 }
 

@@ -32,6 +32,25 @@
       "logoheight": 100,
       "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
       "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+    },
+    {
+      "id":2,
+      "link": "https://barefootcyber.com/",
+      "company": "Barefoot Cyber",
+      "title": "DevOps Engineer",
+      "dateFrom": "May 2023",
+      "dateTo": "Present",
+      "info": [
+
+       "Provided microservice-based architecture designs for the company's SIEM platform.",
+       "Deployed servers, storage, and network components on AWS using Terraform.",
+       "Developed and maintained deployment scripts for SIEM software on Docker containers.",
+      "Implemented monitoring tools for troubleshooting and collaborated with the SOC team."
+      ],
+      "stack": ["AWS", "Docker", "Terraform", "Wazuh", "Bash"],
+      "logoheight": 100,
+      "colourPrimary": "linear-gradient(to bottom, #1e3470, #00072D)",
+      "colourSecondary": "linear-gradient(to bottom, #1e3470, #00072D)"
     }
   ]
 }
