@@ -43,7 +43,7 @@ const Navbar = () => {
           </Link>
         </div>
         <div className="navlink-wrapper">
-          <Link to="curriculum vitae" spy={true} smooth={true} duration={500}>
+          <Link to="cv" spy={true} smooth={true} duration={500}>
             CURRICULUM VITAE
           </Link>
         </div>
