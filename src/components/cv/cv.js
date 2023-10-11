@@ -14,8 +14,8 @@ const CV = () => {
             <Fade bottom duration={1000} distance="20px">
               <iframe src=
               "https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/Moloko+Mokubedi+CV.pdf"
-              width="800"
-              height="500">
+              width="1000"
+              height="700">
             </iframe>
             </Fade>
           </div>
