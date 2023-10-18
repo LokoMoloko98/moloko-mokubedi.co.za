@@ -6,6 +6,23 @@ import { TaggedContentCard } from 'react-ui-cards';
 import Carousel from 'react-grid-carousel'
 import styled from 'styled-components'
 
+const linkStyle = {
+  fontWeight: 'bold',
+  textDecoration: 'none', // Remove underline
+  color: 'white', // Default color for unvisited link
+  cursor: 'pointer',
+};
+
+const credit = {
+  textDecoration: 'none', // Remove underline
+  color: 'white', // Default color for unvisited link
+  cursor: 'pointer',
+  fontSize: '10px', // Adjust the font size as needed
+  textAlign: 'center',
+  verticalAlign: 'bottom',
+  fontWeight: "400"
+};
+
 const Container = styled.div
   `position: absolute;
   top: 0;
@@ -138,36 +155,53 @@ const Projects = () => {
             arrowLeft={<ArrowBtn type="left" />}
           >
 
+            <Carousel.Item >
+              <a href='https://terraops-pipeline.moloko-mokubedi.co.za/' target="_blank" rel="noreferrer" style={linkStyle}>
+                <Card>
+                  <Img img={'https://assets-global.website-files.com/622642781cd7e96ac1f66807/62d0eee28b8758b46548880e_042021-Harness-Blogpost-SEOBLOG-DeploymentPipelinePatterns-Header-p-1600.png'} />
+                  <Title>
+                    TerraOps Pipeline
+                  </Title>
+                  <Description>
+                  TerraOps Pipeline is an infrastructure automation toolset developed by Moloko Mokubedi that aims to streamline the process of launching containerized applications to IT infrastructure or provisioning cloud resources. TerraOps makes infrastructure provisioning effortless, reliable, and efficient, by utilizing the power of Terraform and modern CI/CD practices. The ECS Edition is the first in a series of TerraOps subprojects.
+                  </Description>
+                  <p style={credit}>Image Source: harnes.io</p>
+
+                </Card>
+              </a>
+            </Carousel.Item>
+
             <Carousel.Item>
-              <a href='https://github.com/LokoMoloko98/Investigating-the-time-efficiency-of-indexing-vector-point-data-via-the-Point-Quadtree' target="_blank" rel="noreferrer">
+              <a href='https://github.com/LokoMoloko98' target="_blank" rel="noreferrer" style={linkStyle}>
+                <Card>
+                  <Img img={'https://merned-dock.s3.af-south-1.amazonaws.com/Mern-ed+Dock.jpg'} />
+                  <Title>
+                  MERN-ed Dock
+                  </Title>
+                  <Description>
+                  MERN-ed Dock is an innovative open-source project simplifying the deployment of a powerful MERN (MongoDB, Express, React, Node.js) stack web application. Built on Docker, MERN-ed Dock streamlines the creation and management of entire MERN stack environments with just one click.
+                  </Description>
+                </Card>
+              </a>
+            </Carousel.Item>
+
+            <Carousel.Item>
+              <a href='https://github.com/LokoMoloko98/Investigating-the-time-efficiency-of-indexing-vector-point-data-via-the-Point-Quadtree' target="_blank" rel="noreferrer" style={linkStyle}>
                 <Card>
                   <Img img={'https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/projects-images/final+year+project.png'} />
                   <Title>
-                  Investigating the time efficiency of indexing vector point data via the Point Quadtree
+                    Investigating the time efficiency of indexing vector point data via the Point Quadtree
                   </Title>
                   <Description>
-                  The main aim of the project is to investigate the efficiency of the Point Quadtree spatial data structure in inserting and retrieving vector-based spatial data in the context of digital mapping systems, in order to deliver critical data to decision-making stakeholders on time
+                    The main aim of the project is to investigate the efficiency of the Point Quadtree spatial data structure in inserting and retrieving vector-based spatial data in the context of digital mapping systems, in order to deliver critical data to decision-making stakeholders on time
                   </Description>
-                </Card>
-              </a>
-            </Carousel.Item>
-
-            <Carousel.Item >
-              <a href='https://github.com/LokoMoloko98/Orange-Roofs-Object-Detection-OpenCV' target="_blank" rel="noreferrer">
-                <Card>
-                  <Img img={'https://gisgeography.com/wp-content/uploads/2017/06/OBIA-classification1-1-678x295.png'} />
-                  <Title>
-                    Orange and Brown Roofs Object-Based Image Detection with OpenCV
-                  </Title>
-                  <Description>
-                    The aim of this Jupyter notebook is to demonstrate a ruleset that detects buildings with a red, brown and orange coloured roofs in an provided detects buildings with red, brown and orange coloured roofs in a provided aerial image. Click on the card to see the Github Repo
-                  </Description>
+                  
                 </Card>
               </a>
             </Carousel.Item>
 
             <Carousel.Item>
-              <a href='https://github.com/LokoMoloko98/ReactJS-Docker-Personal-Website' target="_blank" rel="noreferrer">
+              <a href='https://github.com/LokoMoloko98/moloko-mokubedi.co.za' target="_blank" rel="noreferrer" style={linkStyle}>
                 <Card>
                   <Img img={'https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/projects-images/Personal+Website.png'} />
                   <Title>
