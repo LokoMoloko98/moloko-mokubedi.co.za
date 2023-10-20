@@ -176,10 +176,10 @@ const Projects = () => {
                 <Card>
                   <Img img={'https://merned-dock.s3.af-south-1.amazonaws.com/Mern-ed+Dock.jpg'} />
                   <Title>
-                  MERN-ed Dock
+                  MERN Docked
                   </Title>
                   <Description>
-                  MERN-ed Dock is an innovative open-source project simplifying the deployment of a powerful MERN (MongoDB, Express, React, Node.js) stack web application. Built on Docker, MERN-ed Dock streamlines the creation and management of entire MERN stack environments with just one click.
+                  MERN Docked is an innovative open-source project simplifying the deployment of MERN (MongoDB, Express, React, Node.js) stack web applications. Built on Docker, MERN Docked streamlines the creation and management of entire MERN stack environments with just one click.
                   </Description>
                 </Card>
               </a>
