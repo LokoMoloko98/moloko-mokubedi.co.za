@@ -172,7 +172,7 @@ const Projects = () => {
             </Carousel.Item>
 
             <Carousel.Item>
-              <a href='https://github.com/LokoMoloko98' target="_blank" rel="noreferrer" style={linkStyle}>
+              <a href='https://github.com/LokoMoloko98/MERN-Docked' target="_blank" rel="noreferrer" style={linkStyle}>
                 <Card>
                   <Img img={'https://merned-dock.s3.af-south-1.amazonaws.com/Mern-ed+Dock.jpg'} />
                   <Title>
