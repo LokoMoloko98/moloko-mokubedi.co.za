@@ -172,20 +172,6 @@ const Projects = () => {
             </Carousel.Item>
 
             <Carousel.Item>
-              <a href='https://github.com/LokoMoloko98/MERN-Docked' target="_blank" rel="noreferrer" style={linkStyle}>
-                <Card>
-                  <Img img={'https://merned-dock.s3.af-south-1.amazonaws.com/Mern-ed+Dock.jpg'} />
-                  <Title>
-                  MERN Docked
-                  </Title>
-                  <Description>
-                  MERN Docked is an innovative open-source project simplifying the deployment of MERN (MongoDB, Express, React, Node.js) stack web applications. Built on Docker, MERN Docked streamlines the creation and management of entire MERN stack environments with just one click.
-                  </Description>
-                </Card>
-              </a>
-            </Carousel.Item>
-
-            <Carousel.Item>
               <a href='https://github.com/LokoMoloko98/Investigating-the-time-efficiency-of-indexing-vector-point-data-via-the-Point-Quadtree' target="_blank" rel="noreferrer" style={linkStyle}>
                 <Card>
                   <Img img={'https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/projects-images/final+year+project.png'} />
