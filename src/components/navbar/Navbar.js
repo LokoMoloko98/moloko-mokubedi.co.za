@@ -42,11 +42,11 @@ const Navbar = () => {
             PERSONAL PROJECTS
           </Link>
         </div>
-        <div className="navlink-wrapper">
+        {/* <div className="navlink-wrapper">
           <Link to="cv" spy={true} smooth={true} duration={500}>
             CURRICULUM VITAE
           </Link>
-        </div>
+        </div> */}
         <div className="navlink-wrapper">
           <Link to="contact" spy={true} smooth={true} duration={500}>
             CONTACT

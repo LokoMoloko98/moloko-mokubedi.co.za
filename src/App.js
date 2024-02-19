@@ -18,7 +18,7 @@ function App() {
       <Experience />
       <Certification/>
       <Personal_Projects />
-      <CV />
+      {/* <CV /> */}
       <Contact />
       <Footer />
       <TopButton />
