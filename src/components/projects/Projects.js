@@ -194,7 +194,7 @@ const Projects = () => {
                     Moloko Mokubedi's React.js Website
                   </Title>
                   <Description>
-                    My personal website. Built with the React Javascript UI framework and AWS Lambdas.
+                    My personal website. Built with the React Javascript UI framework and deplovia via AWS Amplify.
                   </Description>
                 </Card>
               </a>
