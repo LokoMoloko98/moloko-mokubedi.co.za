@@ -21,11 +21,11 @@ module.exports = {
           width: 500,
           height: 500
         },
-        {
-          src: "https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/particles-logos/linux-logo-png-transparent-background-png-download.png",
-          width: 200,
-          height: 200
-        },
+        // {
+        //   src: "https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/particles-logos/linux-logo-png-transparent-background-png-download.png",
+        //   width: 200,
+        //   height: 200
+        // },
         {
           src: "https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/particles-logos/docker.png",
           width: 200,

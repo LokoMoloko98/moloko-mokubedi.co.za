@@ -7,12 +7,6 @@
       "details": "At university, I acquired proficiency in Python, which has become my primary runtime for AWS Lambda scripts. Leveraging Python's versatility, I streamline processes and enhance efficiency in my DevOps role, utilizing its capabilities for automation tasks and script development."
     },
     {
-      "id": 1,
-      "skillName": "🛠️ Linux Bash",
-      "amount": "100",
-      "details": "In cloud environments, my expertise in Bash scripting encompasses crafting EC2 bootstrapping scripts, automating on-server tasks like configuration file edits using sed, and managing scheduled tasks such as SSL certificate renewal via cron jobs. These efforts enhance system efficiency and reliability."
-    },
-    {
       "id": 2,
       "skillName": "🖥️ Terraform",
       "amount": "100",
@@ -35,13 +29,6 @@
       "skillName": "📦 Docker", 
       "amount": "100",
       "details": "My containerisation picked up pace at Barefoot Cyber where I did ample work configuring a template docker-compose file that deploys a network of containers that compose of a Wazuh Server, Opensearch server, Kibana Dashboard and an Nginx server that acts as a proxy and loadbalancer (the main components of the SIEM) respectively."
-    },
-    {
-      "id": 6,
-      "skillName": "More...", 
-      "amount": "100",
-      "details": "Go to the Curriculum Vitae section to see more skills I have to offer or download my CV at this URL: https://molokomokubedi.s3.af-south-1.amazonaws.com/moloko-mokubedi.co.za/Moloko+Mokubedi+CV.pdf"
     }
-
   ]
 }

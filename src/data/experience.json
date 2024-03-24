@@ -16,36 +16,17 @@
       "colourSecondary": "linear-gradient(to bottom, #99b451, #a5cc3d)"
     },
     {
-      "id": 1,
-      "link": "https://cloud-fundis.co.za/",
-      "company": "Cloud Fundis",
-      "title": "Junior DevOps Engineer",
-      "dateFrom": "December 2022",
-      "dateTo": "February 2023",
-      "info": [
-        "Setting up Docker images to containerize for client's development enviroments",
-        "Deploying and orchestraring containers via AWS ECS and AWS Fargate",
-        "Developing and deploying IaaS Terraform Scripts",
-        "Facilitating CI/CD pipelines via AWS CDK Tools"
-      ],
-      "stack": ["AWS", "Docker", "Terraform"],
-      "logoheight": 100,
-      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
-      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
-    },
-    {
-      "id":2,
+      "id":1,
       "link": "https://barefootcyber.com/",
       "company": "Barefoot Cyber",
-      "title": "DevOps Engineer",
+      "title": "Junior DevOps Engineer",
       "dateFrom": "May 2023",
       "dateTo": "Present",
       "info": [
+       "Collaborated with Technical Director to re-architect SIEM platform for cloud and microservice-based setup using Terraform in AWS.",
+       "Supported platform management with AWS Systems Manager, Lambda, EventBridge, and tracked tasks using Jira.",
+       "Developed deployment scripts with Bash and Docker-compose, and set up monitoring tools like Netdata and Uptime-Kuma, ensuring alignment with SOC team requirements."
 
-       "Provided microservice-based architecture designs for the company's SIEM platform.",
-       "Deployed servers, storage, and network components on AWS using Terraform.",
-       "Developed and maintained deployment scripts for SIEM software on Docker containers.",
-      "Implemented monitoring tools for troubleshooting and collaborated with the SOC team."
       ],
       "stack": ["AWS", "Docker", "Terraform", "Wazuh", "Bash"],
       "logoheight": 100,

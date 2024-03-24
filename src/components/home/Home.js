@@ -19,28 +19,29 @@ const Home = () => {
     <div className="home-wrapper">
       <div className="home">
         <Particles className="particles" params={config.particles} />
-        <div className={`greeting${!imageLoaded ? ' hide' : ''}`}>
+        <div className={`greeting`}>
           <Fade bottom distance="40px">
-            <img
+            {/* <img
               className="profile"
               alt="m.mokubedi profile"
               src={profile}
               onLoad={() => setImageLoaded(true)}
-            />
+            /> */}
             <h1 className="greeting-text">
-              Hi, I'm <span className="name">Moloko Mokubedi</span>.{' '}
-              <span className="wave-emoji" role="img" aria-label="waving hand">
-                👋🏿
-              </span>
+              Hello there! <span className="wave-emoji" role="img" aria-label="waving hand">👋🏿</span> 
+              <h1>
+                <span className="name"> I'm Moloko Mokubedi</span>
+              </h1>
             </h1>
             <h1 className="greeting-text">
+              Let's embark on a journey in 
               <Typewriter
                 options={{
                   strings: [
-                    'DevOps',
-                    'Linux',
-                    'Terraform',
-                    'Amazon Web Services'
+                    'Cloud Platform!',
+                    'Terraform!',
+                    'Amazon Web Services!',
+                    'Serverless Computing!'
                   ],
                   autoStart: true,
                   loop: true,
@@ -54,7 +55,7 @@ const Home = () => {
             <Bounce cascade>
               <div className="links">
                 <a
-                  href="http://linkedin.com/in/mahlogonolo-m-355188285"
+                  href="https://linkedin.com/in/moloko-m-b6a2a298"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
