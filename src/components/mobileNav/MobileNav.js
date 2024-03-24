@@ -44,19 +44,6 @@ const MobileNav = ({ toggleMobilenavVisible, mobilenavVisible }) => {
               EXPERIENCE
             </Link>
           </div>
-
-          <div className="mobilenavlink">
-            <Link
-              activeClass="active"
-              to="projects"
-              spy={true}
-              smooth={true}
-              duration={500}
-              onClick={toggleMobilenavVisible}
-            >
-              PERSONAL PROJECTS
-            </Link>
-          </div>
           
           <div className="mobilenavlink">
             <Link
@@ -68,6 +55,19 @@ const MobileNav = ({ toggleMobilenavVisible, mobilenavVisible }) => {
               onClick={toggleMobilenavVisible}
             >
               CERTIFICATIONS
+            </Link>
+          </div>
+
+          <div className="mobilenavlink">
+            <Link
+              activeClass="active"
+              to="projects"
+              spy={true}
+              smooth={true}
+              duration={500}
+              onClick={toggleMobilenavVisible}
+            >
+              PERSONAL PROJECTS
             </Link>
           </div>
 

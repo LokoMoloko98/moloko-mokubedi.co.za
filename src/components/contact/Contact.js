@@ -14,7 +14,7 @@ const Contact = () => {
       <Bounce cascade>
         <div className="links">
           <a
-            href="https://linkedin.com/in/mahlogonolo-m-355188285"
+            href="https://www.linkedin.com/in/moloko-m-b6a2a298/?lipi=urn%3Ali%3Apage%3Ad_flagship3_leia_profile_views%3Bydgo0BTRSimzGFlwVYlwxw%3D%3D"
             target="_blank"
             rel="noopener noreferrer"
           >
