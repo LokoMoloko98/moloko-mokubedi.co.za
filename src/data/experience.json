@@ -21,14 +21,14 @@
       "company": "Barefoot Cyber",
       "title": "Junior DevOps Engineer",
       "dateFrom": "May 2023",
-      "dateTo": "Present",
+      "dateTo": "June 2024",
       "info": [
        "Collaborated with Technical Director to re-architect SIEM platform for cloud and microservice-based setup using Terraform in AWS.",
        "Supported platform management with AWS Systems Manager, Lambda, EventBridge, and tracked tasks using Jira.",
        "Developed deployment scripts with Bash and Docker-compose, and set up monitoring tools like Netdata and Uptime-Kuma, ensuring alignment with SOC team requirements."
 
       ],
-      "stack": ["AWS", "Docker", "Terraform", "Wazuh", "Bash"],
+      "stack": ["AWS", "Docker", "Terraform", "OSSEC", "Bash"],
       "logoheight": 100,
       "colourPrimary": "linear-gradient(to bottom, #1e3470, #00072D)",
       "colourSecondary": "linear-gradient(to bottom, #1e3470, #00072D)"
